@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">- 🔭 I’m currently working on Being a better Engineer</p>
-<p align="center">- 🌱 I’m currently learning Elixir and Phoenix</p>
 
 ###
 
